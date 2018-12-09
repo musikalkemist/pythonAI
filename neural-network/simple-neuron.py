@@ -45,8 +45,8 @@ def sigmoid(x):
     Returns:
         y (float): Output
     """
-    output = 1.0 / (1 + math.exp(-x))
-    return output
+    y = 1.0 / (1 + math.exp(-x))
+    return y
 
 
 if __name__ == "__main__":
