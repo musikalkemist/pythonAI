@@ -4,7 +4,7 @@ Email: valeriovelardo@gmail.com
 Website: http://valeriovelardo.com
 Python AI mailing list (free AI and ML tutorials): https://bit.ly/2K4gqE5
 
-This file contains an implementation of a simpple feedforward neural network.
+This file contains an implementation of a simple feedforward neural network.
 """
 
 # Remember to pip install the numpy library, if you haven't downloaded it
